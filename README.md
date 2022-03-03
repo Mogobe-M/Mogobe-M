@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mogobe-M
 - 👀 I’m interested in ...coding/programming
-- 🌱 I’m currently learning ...software engineerinh
+- 🌱 I’m currently learning ...software engineering
 - 💞️ I’m looking to collaborate on ...everything programming
 - 📫 How to reach me ...moshopjadi1602@gmail.com
 
